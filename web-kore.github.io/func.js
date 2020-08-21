@@ -1,0 +1,1 @@
+var priceV  = 0;
